@@ -1,0 +1,30 @@
+body {
+  background-image: url("Circles.bmp");
+  font-family: Helvetica;
+  padding: 15px;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+}
+p {
+  /*yea nothing is here*/
+}
+.thebackgournd {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 15px;
+}
+.seperator {
+  border: 10px solid white;
+}
+a:link {
+  color: powderblue;
+}
+a:visited {
+  color: pink;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: blue;
+}
