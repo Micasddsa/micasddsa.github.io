@@ -1,0 +1,31 @@
+body {
+  background-image: url("Tiles.bmp");
+  padding: 15px;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+}
+.thebackgournd {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 15px;
+}
+subtitle {
+  font-size: 15px;
+  color: #c3c3c3;
+  font-style: italic;
+}
+li {
+  text-align: left;
+}
+a:link {
+  color: #4bff5c;
+}
+a:visited {
+  color: #c0ffe4;
+}
+a:hover {
+  color: #ffd23e;
+}
+a:active {
+  color: #ff844b;
+}
